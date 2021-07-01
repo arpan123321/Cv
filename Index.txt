@@ -1,0 +1,56 @@
+<html>
+<head>
+<title> My Resume </title>
+</head>
+<body bgcolor="Grey"><hr>
+<table><tr>
+<td><img src="Arpan.jpg" width="200px" height="200px"></td>
+<td><h1><i> Arpan Khadka </i></h1>
+<p>Adress : Dhapakhel,lalitpur</p>
+<p>Email : khadkaarpan113112@gmail.com</p>
+<p>Contact no : 9818551827</P></td></tr></table><hr>
+<h3> PERSONAL INFORMATION:</h3>
+<table><tr>
+<td> Date of birth</td><td>: 2000/4/29 </td></tr>
+<tr>
+<td> Gender </td><td>: Male </td></tr>
+<tr>
+<td> Religion </td><td> :Hinduism </td></tr>
+<tr>
+<td>Marital status</td><td>: single </td></tr>
+<tr>
+<td>Language</td><td>: Nepali, Hindi and English.</td></tr></table><hr>
+<h4><u>ACADAMIC QUALIFCATIONS:</u></h4>
+<img src="download.jpg" style=width:595px;height:200px>
+<br><br>
+<table border="10"
+<tr>
+<th>Name of degree</th><th>Institution</th><th>Board</th><th>major subject</th><th>passed year</th><th>GPA</th></tr>
+<tr>
+<td><b>SEE</b> </td><td>Moonlight Higher Sec.School </td><td> NEB </td><td> Management </td><td> 2073</td><td> 3.20 </td></tr>	
+<tr>
+<td><b>+2</b></td><td> MOLIHSS </td><td>NEB</td><td>Englsh</td><td>2075-76</td><td>2.75</td></tr>
+<td><b> Bachelor<b/> </td><td>Nesfileld</td><td>TU</td><td>computer</td><td>2080</td><td>2.80</td></tr></table><hr>
+<h4><u>HOBBIES:	</u></h4>
+<ol>
+<li><i>Travelling </li><li> Footballer</b></li><li> Gamme</i></li></ol><hr>
+<h4><u>SKILLS:</u></h4>
+<ul>
+<li><i>C++/C programming </li><li> Java </li><li> Phython </li><li> Oracle</i></li></ul><hr>
+<h4><u>WORKING EXPERIENCES:</u></h4>
+<ul>
+<li><i> Worked in Aptech as an Software Engineer.</li><li>Worked in Google as a Ethical Hacker.</li><li>Worked in NASA as a White hat hacker.</li></ul><hr>
+<h4><u>TRAINING:</u></h4>
+Completed training from SPI (Software Paradigms International).<hr>
+<h4><u> REFERENCES:</u></h4>
+<ul>
+<li><p>Kp Oli<br> Software Paradigms International <br>koteshwor,kathmandu<br>01-5557678 </p></li><li><p> Pushpa Kamal Dahal <br> Leapfrog Technology Inc.<br>Bagbazar,kathmandu<br>01-2234556 </p></li></ul>
+</body>
+</html>
+
+
+
+
+
+
+
